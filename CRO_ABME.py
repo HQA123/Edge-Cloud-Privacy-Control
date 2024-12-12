@@ -6,6 +6,10 @@ from charm.core.math.pairing import hashPair as extractor
 from itertools import combinations
 import time
 
+'''
+Written by Qi-An Huang, qa-huang@foxmail.com
+'''
+
 class CRO_MABE(ABEnc):
 
     def __init__(self, groupObj=None):
